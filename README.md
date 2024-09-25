@@ -13,3 +13,8 @@ Evaluate the Potential Impact of a Proposed Change: The Product Team plans to in
 *  Analyze current customer behavior, such as how many customers currently add non-medication items and the average value of their orders.
 *  Estimate the potential increase in revenue from this feature if the adoption rate of non-medication items increases to 20%.
 *  Use SQL queries to analyze key data points and customer metrics, helping us understand how the proposed change might affect customer behavior and the company’s revenue.
+
+#### There will be 3 files in this Analytics
+1. Exploratory_data_analysis.sql: this file explore the data and check for null values
+2. revenue_impact.sql: this file explore the revenue impact brought by the changes by analyzing customer behavior
+3. Revenue_Impact_Analysis.ipynb: this file incorporating machine learning to forecast and cross-examine the revenue impact as brought by the change
